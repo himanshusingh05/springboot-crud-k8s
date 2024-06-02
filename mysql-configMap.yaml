@@ -4,4 +4,4 @@ metadata:
   name : db-config
 data:
   host : mysql
-  dbName: javatechie
+  dbName: k8-demo-db
